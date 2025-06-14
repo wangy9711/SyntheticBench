@@ -1,0 +1,871 @@
+{
+    "7u5v": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "8ei8": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8bzc": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8agy": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ei4": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8cz9": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "8sdo": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8a62": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7z8o": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8t4r": {
+      "pep_chain": "D",
+      "prot_chain": "A"
+    },
+    "8av7": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7x88": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8pxy": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ei0": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7ugb": {
+      "prot_chain": "A",
+      "pep_chain": "I"
+    },
+    "8v3o": {
+      "pep_chain": "I",
+      "prot_chain": "A"
+    },
+    "8uk5": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8b4x": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8ibp": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8anc": {
+      "pep_chain": "P",
+      "prot_chain": "A"
+    },
+    "8bss": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8jud": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8psr": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8wtw": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8gwh": {
+      "pep_chain": "E",
+      "prot_chain": "A"
+    },
+    "8eyc": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "7ya5": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8wm0": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8toq": {
+      "prot_chain": "A",
+      "pep_chain": "E"
+    },
+    "8cj3": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8h7p": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7oym": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8b2i": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8alx": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8bzb": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7r2t": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8b5c": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7zax": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8joq": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8b4j": {
+      "pep_chain": "P",
+      "prot_chain": "O"
+    },
+    "8c17": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7y90": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7wq8": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8hew": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8i7p": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8gjs": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8fsq": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8onu": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ebk": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8cv6": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8f4b": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8tlw": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8gvd": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7zrt": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7zed": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8q1q": {
+      "pep_chain": "D",
+      "prot_chain": "A"
+    },
+    "8f0z": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8cv5": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8bv7": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ei2": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8ccw": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8sg2": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7yuz": {
+      "pep_chain": "I",
+      "prot_chain": "A"
+    },
+    "8p0d": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8anb": {
+      "prot_chain": "A",
+      "pep_chain": "P"
+    },
+    "8ibo": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8b5a": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8wi0": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8s30": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7qs6": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8pay": {
+      "prot_chain": "A",
+      "pep_chain": "H"
+    },
+    "8dgm": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8fsr": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8wky": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8czf": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "9c0o": {
+      "prot_chain": "A",
+      "pep_chain": "D"
+    },
+    "8axh": {
+      "prot_chain": "H",
+      "pep_chain": "A"
+    },
+    "8fss": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8cix": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7y8d": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8pat": {
+      "prot_chain": "A",
+      "pep_chain": "H"
+    },
+    "8tlv": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8dzv": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8iqm": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8dk4": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8hmx": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ahs": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "8sou": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7yoh": {
+      "pep_chain": "P",
+      "prot_chain": "A"
+    },
+    "8exk": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8b0p": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7udj": {
+      "pep_chain": "G",
+      "prot_chain": "H"
+    },
+    "8ese": {
+      "pep_chain": "X",
+      "prot_chain": "Z"
+    },
+    "9atn": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8pp0": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8opi": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7ui8": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "9c66": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8jpf": {
+      "pep_chain": "L",
+      "prot_chain": "R"
+    },
+    "8j5u": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8g4y": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8tte": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8b9t": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7prx": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8bq3": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7tmy": {
+      "pep_chain": "A",
+      "prot_chain": "I"
+    },
+    "8ym2": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8cqy": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ia5": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8vju": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "7z6u": {
+      "prot_chain": "A",
+      "pep_chain": "D"
+    },
+    "8u51": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8t5e": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8gl7": {
+      "pep_chain": "D",
+      "prot_chain": "A"
+    },
+    "8are": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8r10": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8e1d": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8cd3": {
+      "pep_chain": "A",
+      "prot_chain": "B"
+    },
+    "8fub": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8gjg": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7xv4": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8wxw": {
+      "pep_chain": "P",
+      "prot_chain": "A"
+    },
+    "8by5": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ens": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8pdp": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8t8g": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8eq5": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8wxt": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "7udk": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8bva": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8c1j": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8wi2": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8bft": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8wms": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8h7k": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8bia": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "8ck5": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7wqq": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "8qfz": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8tg8": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8gqa": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8qu9": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ttd": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8brh": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7sxh": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8iy6": {
+      "prot_chain": "R",
+      "pep_chain": "L"
+    },
+    "8exj": {
+      "prot_chain": "A",
+      "pep_chain": "D"
+    },
+    "8dvl": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8s9i": {
+      "pep_chain": "G",
+      "prot_chain": "A"
+    },
+    "7ue2": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8jjv": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8q5p": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8op0": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ttg": {
+      "prot_chain": "A",
+      "pep_chain": "C"
+    },
+    "7yod": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ahy": {
+      "prot_chain": "B",
+      "pep_chain": "P"
+    },
+    "8raj": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7zw4": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8tgp": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7yol": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7uw2": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8gtx": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8hlw": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7xfg": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8wi5": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8wls": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7z7c": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8t8r": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7qwv": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8uh1": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8pxx": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8t32": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8q7i": {
+      "pep_chain": "P",
+      "prot_chain": "A"
+    },
+    "7y99": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7sxf": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8fg6": {
+      "prot_chain": "B",
+      "pep_chain": "A"
+    },
+    "8tgf": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ttt": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8ui6": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8qci": {
+      "pep_chain": "A",
+      "prot_chain": "B"
+    },
+    "8afr": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "7xuv": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8wx5": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8he0": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ael": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8hqt": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8c2p": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8u2y": {
+      "prot_chain": "B",
+      "pep_chain": "A"
+    },
+    "8u9o": {
+      "pep_chain": "A",
+      "prot_chain": "B"
+    },
+    "8sr6": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7yue": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "8gcw": {
+      "prot_chain": "A",
+      "pep_chain": "P"
+    },
+    "8pii": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7z6f": {
+      "pep_chain": "A",
+      "prot_chain": "E"
+    },
+    "8exm": {
+      "pep_chain": "D",
+      "prot_chain": "A"
+    },
+    "8fk3": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "7xv0": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7wul": {
+      "pep_chain": "X",
+      "prot_chain": "A"
+    },
+    "8kdx": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8ti6": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8hep": {
+      "pep_chain": "A",
+      "prot_chain": "B"
+    },
+    "8hz8": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "8okf": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8f8m": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "9f42": {
+      "prot_chain": "E",
+      "pep_chain": "G"
+    },
+    "8hlo": {
+      "pep_chain": "C",
+      "prot_chain": "A"
+    },
+    "8wqd": {
+      "prot_chain": "D",
+      "pep_chain": "G"
+    },
+    "8in0": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8h4x": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    },
+    "8her": {
+      "pep_chain": "A",
+      "prot_chain": "B"
+    },
+    "8gji": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8heq": {
+      "pep_chain": "A",
+      "prot_chain": "B"
+    },
+    "9ild": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "8igc": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7umi": {
+      "pep_chain": "A",
+      "prot_chain": "E"
+    },
+    "8x3s": {
+      "pep_chain": "B",
+      "prot_chain": "A"
+    },
+    "7trl": {
+      "prot_chain": "A",
+      "pep_chain": "B"
+    }
+  }
+  

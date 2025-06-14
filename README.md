@@ -23,6 +23,10 @@ We assessed model performance across different input modalities—including amin
 /visualization
   └── draw.ipynb       # Draw pictures based on the scores
 
+
+/data
+  └── pdb_idx.json     # Contains all PDB IDs used in this article
+
 ```
 
 ## Dependencies
